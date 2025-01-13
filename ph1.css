@@ -1,0 +1,13 @@
+*{
+  background-color: rgb(241, 241, 237);
+}
+#navbar{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+#buttonone{
+height: 30px;
+width: 60px;
+color: rgba(228, 23, 57, 0.899);
+}
