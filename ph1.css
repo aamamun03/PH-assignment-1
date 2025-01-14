@@ -32,3 +32,19 @@ background-color: rgb(178, 208, 194);
   margin: 40px;
   padding: 20px;
 }
+.four{
+  background-color: rgb(251, 251, 245);
+  margin: 10px;
+  border-radius: 10px;
+  border:2px solid rgb(251, 251, 245);
+  padding: 5px;
+}
+#pillars{
+  display: flex;
+  justify-content: space-between;
+  margin-inline: 80px;
+}
+#textpillars{
+margin-inline: 80px;
+  
+}
