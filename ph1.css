@@ -1,6 +1,6 @@
-*{
-  background-color: rgb(241, 241, 237);
-}
+/**{
+  background-color:rgb(241, 241, 237);
+}*/
 #navbar{
   display: flex;
   justify-content: space-between;
@@ -10,4 +10,25 @@
 height: 30px;
 width: 60px;
 color: rgba(228, 23, 57, 0.899);
+}
+#buttontwo{
+  color: white;
+  background-color: green; 
+  height: 30px;
+  width: 170px;
+}
+#bangladesh{
+  color: rgb(17, 133, 17);
+}
+#banner{
+  
+  display: flex;
+  justify-content: space-between;
+  margin: 80px;
+padding: 20px;
+background-color: rgb(178, 208, 194);
+}
+#one{
+  margin: 40px;
+  padding: 20px;
 }
