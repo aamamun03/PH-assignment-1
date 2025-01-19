@@ -27,6 +27,7 @@ color: rgba(228, 23, 57, 0.899);
   margin: 80px;
 padding: 20px;
 background-color: rgb(178, 208, 194);
+border-radius:10px;
 }
 #one{
   margin: 40px;
@@ -122,7 +123,7 @@ border-radius: 10px;
       font-weight: bolder;
       border: solid 3px rgb(233, 246, 241);}
       #lorem{
-        background-color: blanchedalmond;
+        background-color: rgb(250, 241, 227);
         margin-inline: 85px;
         padding: 10px;
         border-radius: 10px;
@@ -135,4 +136,47 @@ border-radius: 10px;
       }
       #chief{
         font-weight: lighter;
+      }
+      .recent{
+        margin-inline: 80px;
+      }
+      #newsone{
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(190, 244, 226);
+        margin-inline: 80px;
+        border-radius: 20px;
+      }
+      #sateliteone{
+        margin: 20px;
+        padding: 10px;
+        border-radius: 30px;
+      }
+      #alone{
+        margin: 20px;
+      }
+      #newstwo{
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(190, 244, 226);
+        margin: 20px 80px;
+        border-radius:20px;
+      }
+      #sat{margin: 20px;
+        padding: 10px;
+        border-radius: 30px;
+
+      }
+      #two{
+        margin: 20px;
+      }
+      .readmore{
+        background-color: darkgreen;
+        color: white;
+        height: 30px;
+        border-radius: 5px;
+      }
+      .readmore:hover{
+        background-color: orange;
+        color: cyan;
       }
