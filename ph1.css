@@ -282,3 +282,45 @@ background-color: bisque;}
   background-color: blueviolet;
   color: white;
 }
+#subscribe{
+  background-color: rgb(248, 248, 235);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-inline: 80px;
+  border-radius: 10px;
+  padding: 10px;
+}
+#info{margin: 0px;}
+#email{
+  width: 300px;
+  height: 30px;
+  background-color:  rgb(248, 248, 235);
+  border: 2px solid   rgb(135, 135, 86);
+  border-radius: 3px;
+}
+#info{
+  display: flex;
+}
+#sub{
+  background-color: brown;
+  border: 2px solid  rgb(135, 135, 86);
+  height: 35px;
+  border-radius: 3px;
+  color: white;
+
+}
+#goodbye{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#sub:hover{
+  background-color: forestgreen;
+  color: rgb(191, 191, 245);
+}
+#sub:active{
+  background-color: navy;
+  color: aliceblue;
+}
