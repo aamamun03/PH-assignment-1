@@ -45,6 +45,94 @@ background-color: rgb(178, 208, 194);
   margin-inline: 80px;
 }
 #textpillars{
-margin-inline: 80px;
+margin-inline: 90px;
+}
+#future{
+  display: flex;
+  justify-content: space-between;
+  margin-inline: 70px;
+}
+#transformation{
+  background-color: rgb(168, 137, 89);
+margin: 20px;
+padding: 10px;
+border-radius: 10px;
+}
+#learnone{
+  background-color: rgb(213, 181, 164);
+  height: 25px;
+  border-radius: 5px;
   
 }
+#green{
+  background-color: burlywood;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+#learntwo{
+  background-color: deepskyblue;
+  height: 25px;
+  border-radius: 5px;
+  color: darkgreen;
+}
+#modern{
+  background-color: rgb(171, 102, 11);
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+#learnthree{
+  height: 25px;
+  border-radius: 5px;
+  background-color: rgb(162, 239, 214);
+  color: blue;
+}
+
+.the{
+  margin-inline: 90px;
+}
+#learnone:hover{
+  background-color: rgb(54, 118, 139);
+  color: rgb(203, 181, 181);
+  font-weight: bolder;
+  border: solid 3px rgb(233, 246, 241);
+}
+#learntwo:hover{
+  background-color: chocolate;
+  color: deepskyblue;
+  font-weight: bolder;
+  border: solid 3px rgb(233, 246, 241);
+}
+#learnthree:hover{
+  background-color: rgb(219, 212, 207);
+  color: rgb(30, 61, 71);
+  font-weight: bolder;
+  border: solid 3px rgb(10, 129, 84);}
+  #buttontwo:hover{
+    background-color: rgb(47, 63, 154);
+    color: rgb(115, 252, 252);
+    border: 2px solid black;
+  
+    } 
+    #buttonone:hover{
+      background-color: chocolate;
+      color: deepskyblue;
+      font-weight: bolder;
+      border: solid 3px rgb(233, 246, 241);}
+      #lorem{
+        background-color: blanchedalmond;
+        margin-inline: 85px;
+        padding: 10px;
+        border-radius: 10px;
+        background-image: url(quote-bg.png);
+        background-position: 10px 10px; 
+        background-size: 50px 50px;
+        background-repeat: no-repeat;
+      
+        
+      }
+      #chief{
+        font-weight: lighter;
+      }
